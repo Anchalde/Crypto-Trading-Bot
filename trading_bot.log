@@ -1,0 +1,16 @@
+2025-09-08 16:59:54,806 - INFO - Initialized Binance Client with testnet=True
+2025-09-08 17:00:49,278 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 2.0}
+2025-09-08 17:00:49,635 - ERROR - Binance API Exception: APIError(code=-2014): API-key format invalid.
+2025-09-08 17:01:33,912 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 5.0, 'timeInForce': 'GTC', 'price': 500.0}
+2025-09-08 17:01:34,116 - ERROR - Binance API Exception: APIError(code=-2014): API-key format invalid.
+2025-09-08 17:05:09,632 - INFO - Initialized Binance Client with testnet=True
+2025-09-08 17:06:04,292 - INFO - Initialized Binance Client with testnet=True
+2025-09-08 17:06:27,975 - INFO - Placing order: {'symbol': 'ABCD', 'side': 'BUY', 'type': 'MARKET', 'quantity': 500.0}
+2025-09-08 17:06:28,689 - ERROR - Binance API Exception: APIError(code=-2014): API-key format invalid.
+2025-09-08 20:00:55,443 - INFO - Initialized Binance Client with testnet=True
+2025-09-08 20:01:42,239 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 10.0, 'timeInForce': 'GTC', 'price': 500.0}
+2025-09-08 20:01:43,038 - ERROR - Binance API Exception: APIError(code=-2014): API-key format invalid.
+2025-09-08 20:02:26,981 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 10.0}
+2025-09-08 20:02:27,274 - ERROR - Binance API Exception: APIError(code=-2014): API-key format invalid.
+2025-09-08 20:03:10,817 - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 100.0, 'timeInForce': 'GTC', 'price': 500.0}
+2025-09-08 20:03:11,075 - ERROR - Binance API Exception: APIError(code=-2014): API-key format invalid.
